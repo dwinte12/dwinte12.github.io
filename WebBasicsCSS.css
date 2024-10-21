@@ -1,0 +1,36 @@
+*{ background-color: #FFD373;
+	font-family: "Georgia", serif;
+}
+#footer { color: #E05400;
+	font-size: 9px;
+	text-align: center;
+	font-style: italic;
+}
+#bigheader { font-size: 48px;
+	color: #001524;
+    text-align: center;
+	margin: 25px;
+    font-style: oblique;
+}
+.list { font-size: 14px;
+	color: #001D59;
+	font-style: italic;
+}
+p{ font-size: 14px;
+	color: #001D59;
+}
+h2 { font-size: 24px;
+	
+    }
+h1 {  font-size: 36px;
+	color: #001524;
+	text-align: center;
+}
+image{ border-color: #E05400;
+	border-width: 25px;
+	border-style: double;
+}
+#resumeformat{
+	font-family: monospace;
+	font-size: 12px;
+}
