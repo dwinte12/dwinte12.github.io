@@ -174,8 +174,8 @@ grid-column-start: 3;
     display: grid;
 }
 #codingexample{
-	height: 35%;
-	width: 40%
+	height: 65%;
+	width: 70%
 grid-column-start: 7;
   grid-column-end:10;
   grid-row-start: 2;
