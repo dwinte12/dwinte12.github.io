@@ -174,11 +174,10 @@ grid-column-start: 3;
     display: grid;
 }
 #codingexample{
-    width: 150px;
 grid-column-start: 7;
   grid-column-end:10;
   grid-row-start: 2;
-  grid-row-end: 9;
+  grid-row-end: 5;
     padding-right: 100px;
     padding-left: 150px;
     display:grid;
