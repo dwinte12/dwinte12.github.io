@@ -77,7 +77,7 @@ img{ border-color: #E05400;
 }
 #catleft{
   height: 50%;
-      width: 50px;
+      width: 150px;
          grid-column-start: 2;
   grid-column-end: 4;
   grid-row-start: 1;
@@ -87,7 +87,7 @@ img{ border-color: #E05400;
 }
 #catright{
     height: 50%;
-      width: 50px;
+      width: 150px;
          grid-column-start: 5;
   grid-column-end: 8;
   grid-row-start: 1;
@@ -243,9 +243,13 @@ grid-column-start: 7;
     grid-row-start: 6;
     grid-row-end: 8;
 }
-#art1{ width: 50px;
+#art1{ width: 100px;
      }
-#art2{ width: 50px;
+#art2{ width: 100px;
      }
-#art3{ width: 50px;
+#art3{ width: 100px;
      }
+#bob{ width: 150px;
+    }
+#lovett{ width: 150px
+       }
