@@ -110,17 +110,14 @@ img{ border-color: #E05400;
     border-color: #E05400;
     position: flex;
     display: grid;
-    background-color: #0073CC;
 }
 #nav1{
     color:#003488;
-    background-color: #0073CC;
     font-size: 14px;
     font-style:italic;
 }
 #nav2{
    color:#003488;
-    background-color: #0073CC;
 }
 .imgflex{
     position: flex;
@@ -177,7 +174,7 @@ grid-column-start: 3;
     display: grid;
 }
 #codingexample{
-    width: 500px;
+    width: 150px;
 grid-column-start: 7;
   grid-column-end:10;
   grid-row-start: 2;
