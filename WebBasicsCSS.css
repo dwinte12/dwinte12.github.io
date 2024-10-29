@@ -76,8 +76,8 @@ img{ border-color: #E05400;
     font-style: initial;
 }
 #catleft{
-  height: 100%;
-      width: 150px;
+  height: 50%;
+      width: 50px;
          grid-column-start: 2;
   grid-column-end: 4;
   grid-row-start: 1;
@@ -86,8 +86,8 @@ img{ border-color: #E05400;
     border-color: #E05400;
 }
 #catright{
-    height: 100%;
-      width: 150px;
+    height: 50%;
+      width: 50px;
          grid-column-start: 5;
   grid-column-end: 8;
   grid-row-start: 1;
