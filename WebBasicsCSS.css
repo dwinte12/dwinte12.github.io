@@ -251,5 +251,7 @@ grid-column-start: 7;
      }
 #bob{ width: 150px;
     }
-#lovett{ width: 150px
+#lovett{ width: 150px;
+       }
+#cssimg{ width:100px;
        }
